@@ -1,0 +1,11 @@
+streamlit~=1.31.1
+transformers~=4.38.1
+nltk~=3.8.1
+matplotlib~=3.8.3
+nltk
+streamlit
+matplotlib
+torch
+sentencepiece
+transformers
+plotly
